@@ -11,7 +11,7 @@
 
 ### Meet Your Data
 
-	* [Introduction](http://www.fairfaxcounty.gov/police/crime/arrest.txt)
+	* <a href="http://www.fairfaxcounty.gov/police/crime/arrest.txt">Introduction</a>
 	* Getting to Know the Data
 
 ### Asking Questions
