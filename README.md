@@ -1,22 +1,22 @@
-## A Date with Data
-### (No, not the guy from Star Trek)
-
-#### Materials for hands-on training session at SPJ Region 2 Conference
+## Interviewing Data for News Stories
+#### Journalism Interactive 2014
 #### Derek Willis, The New York Times
+#### @derekwillis
 
-### Preparation
+### Goals
 
-	* Data State of Mind
+	* Learning How to Get News from Data
+	* Developing [Data State of Mind](3825.pdf)
+
+### Meeting The Data
+
 	* Background the Source
-
-### Meet Your Data
-
 	* [Introduction](http://www.fairfaxcounty.gov/police/crime/arrest.txt)
 	* Getting to Know the Data
 
 ### Asking Questions
 
-	* Going to Extremes
+	* Finding the Flaws
 	* Counting
 	* Interestingness
 
