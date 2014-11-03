@@ -1,5 +1,4 @@
 ## Interviewing Data for News Stories
-#### Journalism Interactive 2014
 #### Derek Willis, The New York Times
 #### @derekwillis
 
